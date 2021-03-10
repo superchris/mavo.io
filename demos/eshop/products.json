@@ -24,6 +24,10 @@
 			"name": "Wearable Chair",
 			"amount": 989,
 			"image": "http://theworstthingsforsale.com/wp-content/uploads/2018/05/wearable-chair.jpg"
+		},
+		{
+			"name": "THings and stuff",
+			"amount": "56"
 		}
 	]
 }
